@@ -8,9 +8,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 import { Footer } from "@/components/footer"
 
 export const metadata: Metadata = {
-  title: "Personal Finance Dashboard",
+  title: "Dev Money Metrics",
   description: "Track your income, expenses, and budgets",
-  generator: "v0.app",
+  generator: "Dev Prakash Singh",
 }
 
 export default function RootLayout({

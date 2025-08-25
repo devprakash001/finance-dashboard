@@ -17,7 +17,7 @@ export function Footer() {
             </Link>
           </p>
           <div className="flex items-center space-x-2 text-xs text-muted-foreground">
-            <span>© 2025 Personal Finance Dashboard</span>
+            <span>© 2025 Dev Money Metrics</span>
             <span>•</span>
             <span>Futuristic Design</span>
           </div>

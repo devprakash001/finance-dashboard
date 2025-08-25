@@ -23,7 +23,7 @@ export function Navbar() {
         <div className="flex justify-between items-center h-16">
           <div className="flex items-center">
             <h1 className="text-lg sm:text-xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent animate-fade-in">
-              <span className="hidden sm:inline">Personal Finance Dashboard</span>
+              <span className="hidden sm:inline">Dev Money Metrics</span>
               <span className="sm:hidden">Finance App</span>
             </h1>
           </div>
